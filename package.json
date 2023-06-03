@@ -1,0 +1,14 @@
+{
+  "name": "tercera-entrega-cdrhs",
+  "version": "1.0.0",
+  "description": "pasando a sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "sass --watch scss:assets/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
